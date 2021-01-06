@@ -9,3 +9,5 @@ export class CatComponent extends Component {
     );
   }
 }
+
+export default CatComponent;
